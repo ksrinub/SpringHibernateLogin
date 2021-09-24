@@ -74,7 +74,7 @@
     <version>1.9.5</version>
     <scope>test</scope>
 </dependency>
-
+    <html> added spring login html page to detect azure dashboard and git configuration tests</html>
 <dependency>
     <groupId>org.hamcrest</groupId>
     <artifactId>hamcrest-library</artifactId>
